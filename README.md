@@ -2,9 +2,10 @@
 
 **An intelligent web platform for the preliminary detection and analysis of hair and scalp conditions.**
 
-!![Hair & Scalp AI Homepage](images/homepage-screenshot.png)
+![Hair & Scalp AI Homepage](images/homepage-screenshot.png)
 
-_Screenshot of the homepage will be added here_
+
+
 ## Aim of the Project
 
 The primary goal of Hair & Scalp AI is to leverage advanced machine learning technology to provide users with accessible, preliminary insights into common scalp conditions. Our platform helps users understand their symptoms through AI-powered analysis and guides them toward seeking professional medical advice, bridging the gap between initial concern and professional consultation.
